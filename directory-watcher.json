@@ -1,0 +1,28 @@
+{
+    "version": "3.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.0.0/directory-watcher_Windows_i386.zip",
+            "bin": [
+                "directory-watcher.exe"
+            ],
+            "hash": "70a393a2a4618ed54d19c09b2be6ddd6fcdd6820a27e73834deb4f808fdccd00"
+        },
+        "64bit": {
+            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.0.0/directory-watcher_Windows_x86_64.zip",
+            "bin": [
+                "directory-watcher.exe"
+            ],
+            "hash": "b5c0e7114e8135fb38bbeb3106c10a50dd4aee8561b120dc4673ddd83799c444"
+        },
+        "arm64": {
+            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.0.0/directory-watcher_Windows_arm64.zip",
+            "bin": [
+                "directory-watcher.exe"
+            ],
+            "hash": "b3512805b3255fcc7226178062474af0d7c5b10995683c6178c0cc718fd6e94f"
+        }
+    },
+    "homepage": "https://github.com/seungyeop-lee/directory-watcher",
+    "description": "Watch directories and run commands when files change"
+}
