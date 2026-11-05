@@ -1,26 +1,26 @@
 {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.2.0/directory-watcher_Windows_i386.zip",
+            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.2.1/directory-watcher_Windows_i386.zip",
             "bin": [
                 "directory-watcher.exe"
             ],
-            "hash": "cbe94d2f9180a27cd91a328b5628d0a46bfa5b0e4c715c5f08c205bd688d3781"
+            "hash": "a322392e1f336bfdcfa01824d18922e5c56d7f38136deb3a49d30ec0fec1a310"
         },
         "64bit": {
-            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.2.0/directory-watcher_Windows_x86_64.zip",
+            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.2.1/directory-watcher_Windows_x86_64.zip",
             "bin": [
                 "directory-watcher.exe"
             ],
-            "hash": "c2f5c9f8e22c1cbbd4792ba4bca76ef2acf96f1a7f9968d2335bee1223aa42b4"
+            "hash": "6fd9c034cdcc4c30d85deb1d39d5f0cd9452c2947ecd4e5bd32b3fc96b94ff26"
         },
         "arm64": {
-            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.2.0/directory-watcher_Windows_arm64.zip",
+            "url": "https://github.com/seungyeop-lee/directory-watcher/releases/download/v3.2.1/directory-watcher_Windows_arm64.zip",
             "bin": [
                 "directory-watcher.exe"
             ],
-            "hash": "4c086f838b3b7150cb7d1fc2f8f52ee3d9b305c1bb318629bbf43a6ca0d48395"
+            "hash": "e21133153dc0756d64826ddae928b4f844fb87228a8448c2b736fd7925ee62e3"
         }
     },
     "homepage": "https://github.com/seungyeop-lee/directory-watcher",
